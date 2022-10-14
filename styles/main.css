@@ -1,0 +1,61 @@
+html {
+    background-color:lightblue;
+   
+}
+
+.headImage {
+    height: 300px;
+   width: 700px
+}
+
+.fishingTips {
+    background-color: azure;
+    height: 350px;
+    width: 400px;
+    padding: 10px;
+    border: 10px;
+    margin: 15px;
+}
+
+aside {
+    position: absolute;
+    background-color: azure;
+    top: 400px;
+    right: -50px;
+    width: 250px;
+    height: 400px;
+    padding: 10px;
+
+}
+
+.fishPhoto {
+    height: 250px;
+    width: 250px;
+}
+
+.blob {
+    background-color: azure;
+    height: 380px;
+    width: 400px;
+    padding: 10px;
+    border: 10px;
+    margin: 20px;
+}
+
+.sunfish {
+    background-color: azure;
+    height: 380px;
+    width: 400px;
+    padding: 10px;
+    border: 10px;
+    margin: 20px;
+}
+
+.amberjack {
+    background-color: azure;
+    height: 380px;
+    width: 400px;
+    padding: 10px;
+    border: 10px;
+    margin: 20px;
+}
