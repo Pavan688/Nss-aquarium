@@ -28,12 +28,12 @@ aside {
 
 }
 
-.fishPhoto {
+.fish__image {
     height: 250px;
     width: 250px;
 }
 
-.blob {
+.fishList {
     background-color: azure;
     height: 380px;
     width: 400px;
